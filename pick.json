@@ -1,0 +1,80 @@
+{
+    "pick_no": "PK00001",
+    "status": "wait",
+    "orders": [
+        {
+            "order_no": "C010900038",
+            "product_qty": 700,
+            "destination": ["中国", "广东省", "龙岗区", "某某大厦"],
+            "user":  "张三",
+            "remark": "备注",
+            "items": [
+                {
+                    "sku": "SKU-1",
+                    "pic": "",
+                    "name": "商品名称1",
+                    "order_qty": 100,
+                    "in_box_qty": 0
+                },
+                {
+                    "sku": "SKU-2",
+                    "pic": "",
+                    "name": "商品名称2",
+                    "order_qty": 100,
+                    "in_box_qty": 0
+                },
+                {
+                    "sku": "SKU-3",
+                    "pic": "",
+                    "name": "商品名称3",
+                    "order_qty": 100,
+                    "in_box_qty": 0
+                },
+                {
+                    "sku": "SKU-4",
+                    "pic": "",
+                    "name": "商品名称4",
+                    "order_qty": 100,
+                    "in_box_qty": 0
+                },
+                {
+                    "sku": "SKU-5",
+                    "pic": "",
+                    "name": "商品名称5",
+                    "order_qty": 100,
+                    "in_box_qty": 0
+                },
+                {
+                    "sku": "SKU-6",
+                    "pic": "",
+                    "name": "商品名称6",
+                    "order_qty": 100,
+                    "in_box_qty": 0
+                },
+                {
+                    "sku": "SKU-7",
+                    "pic": "",
+                    "name": "商品名称7",
+                    "order_qty": 100,
+                    "in_box_qty": 0
+                }
+            ],
+            "boxes": [
+                {
+                    "box_no": "#1",
+                    "skus": [
+                        {
+                            "sku": "",
+                            "in_box_qty": "",
+                        }
+                    ],
+                    "weight": 0,
+                    "length": 0,
+                    "width": 0,
+                    "height": 0,
+                    "track_number": ""
+                }
+            ]
+        }
+    ]
+}
